@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cx-duan
+- 👋 Hi, I’m Dylan
 - 👀 I’m interested in data analytics, sports, machine learning
 - 🌱 I’m currently learning sport analytics
 
